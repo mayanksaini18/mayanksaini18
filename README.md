@@ -21,4 +21,4 @@ Student @ PW Institute of Innovation • Aspiring Software Developer • Turning
 Languages:     Java, C, JavaScript, Python (learning)
 Web Dev:       HTML, CSS, Bootstrap, DOM, JS
 Tools:         Git, GitHub, VS Code, Figma
-Exploring:     AI/ML, React, Open Source
+Exploring:     AI/ML, React, Open Source, cloud
