@@ -1,16 +1,24 @@
-## Hi there 👋
+Hey 👋, I'm Mayank Saini
 
-<!--
-**mayanksaini18/mayanksaini18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student @ PW Institute of Innovation • Aspiring Software Developer • Turning ☕coffee into Code
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🎓 Student at **PW Institute of Innovation**, Bangalore  
+- 💻 Learning JavaScript | C | Java | Web Dev | AI  
+- 🚀 Currently building projects to sharpen my skills  
+- 🎯 Goals: Master DSA, Build Cool Products, Get Internship  
+- ⚡ Fun fact: I can debug code faster than I reply to texts 😄
+
+---
+
+### 🔧 Tech Stack
+
+```yaml
+Languages:     Java, C, JavaScript, Python (learning)
+Web Dev:       HTML, CSS, Bootstrap, DOM, JS
+Tools:         Git, GitHub, VS Code, Figma
+Exploring:     AI/ML, React, Open Source
