@@ -17,8 +17,17 @@ Student @ PW Institute of Innovation • Aspiring Software Developer • Turning
 
 ### 🔧 Tech Stack
 
-```yaml
+
 Languages:     Java, C, JavaScript, Python (learning)
 Web Dev:       HTML, CSS, Bootstrap, DOM, JS
 Tools:         Git, GitHub, VS Code, Figma
 Exploring:     AI/ML, React, Open Source, cloud
+
+
+### 🧠 Developer Mode
+
+If(learning)
+   keep_coding();
+Else
+   grabChai();
+
