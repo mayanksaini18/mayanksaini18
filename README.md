@@ -22,6 +22,6 @@ Exploring:     AI/ML, React, Open Source, cloud
 
 
 ### The Dev Life ☕
-(learning) ? keep_coding() : grabChai();
+(learning) ? keep_coding() : grabCoffee();
 
 
