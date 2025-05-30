@@ -1,6 +1,6 @@
 Hey 👋, I'm Mayank Saini
 
-Student @ PW Institute of Innovation • Software Developer • Turning ☕coffee into Code
+Student @ PW Institute of Innovation • Software Developer 
 ---
 
 ### 🧠 About Me
