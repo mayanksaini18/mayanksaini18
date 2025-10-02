@@ -11,21 +11,15 @@ Hey 👋, I'm Mayank Saini
 
 ### 📈 GitHub Stats & Activity
 
-[![Mayank's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayanksaini18&theme=react-dark&hide_title=true)](https://github.com/mayanksaini18)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayanksaini18&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
-
-### 💻 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksaini18&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 
 
 ![Mayank's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayanksaini18&theme=react-dark&hide_title=true)
+
+
+![snake-animation](https://raw.githubusercontent.com/mayanksaini18/mayanksaini18/output/github-contribution-grid-snake.svg)
 
 ### The Dev Life 
 (learning) ? keep_coding() : grabChai();
