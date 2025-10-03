@@ -22,6 +22,6 @@ Hey 👋, I'm Mayank Saini
 ![snake-animation](https://raw.githubusercontent.com/mayanksaini18/mayanksaini18/output/github-contribution-grid-snake.svg)
 
 ### The Dev Life 
-(learning) ? keep_coding() : grabChai();
+(learning) ? keep_coding() : grabCoffee();
 
 
