@@ -1,11 +1,8 @@
 Hey 👋, I'm Mayank 
 
-Web Developer @ A.L.I.G.N
-🎓 CS (AI & Cybersecurity) @ IIT Patna
-⚡ Building BuiltX — AI × Security tools
-🧠 Learning Full-Stack • Backend • AI APIs • Security
-🎯 Aiming to become a skilled, production-ready engineer
-📌 Open to SDE / Internship roles where I can build impactful systems
+
+# 💫 About Me:
+Web Developer @ A.L.I.G.N<br><br>🎓 CS (AI & Cybersecurity) @ IIT Patna<br><br>🚀 Currently building BuiltX <br><br>🔍 Full-Stack • Backend • AI APIs • Security<br><br>📌 Open to SDE / Internship roles <br><br>”
 
 
 ## 🌐 Socials:
