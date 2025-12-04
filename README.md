@@ -2,7 +2,7 @@ Hey 👋, I'm Mayank
 
 
 # 💫 About Me:
-Web Developer @ A.L.I.G.N<br><br>🎓 CS (AI & Cybersecurity) @ IIT Patna<br><br>🚀 Currently building BuiltX <br><br>🔍 Full-Stack • Backend • AI APIs • Security<br><br>📌 Open to SDE / Internship roles <br><br>”
+Web Developer @ A.L.I.G.N<br><br>🎓 CS (AI & Cybersecurity) @ IIT Patna<br>🚀 Currently building BuiltX <br>🔍 Full-Stack • Backend • AI APIs • Security<br>📌 Open to SDE / Internship roles <br>
 
 
 ## 🌐 Socials:
@@ -15,11 +15,11 @@ Web Developer @ A.L.I.G.N<br><br>🎓 CS (AI & Cybersecurity) @ IIT Patna<br><br
 ![](https://nirzak-streak-stats.vercel.app/?user=mayanksaini18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksaini18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayanksaini18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mayanksaini18&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 
-### The Dev Life 
+## The Dev Life 
 (learning) ? keep_coding() : grabCoffee();
 <!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
@@ -31,7 +31,6 @@ Web Developer @ A.L.I.G.N<br><br>🎓 CS (AI & Cybersecurity) @ IIT Patna<br><br
 [![](https://visitcount.itsvg.in/api?id=mayanksaini18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### The Dev Life 
-(learning) ? keep_coding() : grabCoffee();
+
 
 
