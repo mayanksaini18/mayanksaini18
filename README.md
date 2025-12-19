@@ -8,7 +8,7 @@ I'm a Computer Science student at **IIT Patna** focused on shipping real-world p
 
 ### 🚀 What I'm Building Right Now
 
--   **[Smart habit Tracker ](https://smarthabittracker.online/)**: A gamified DSA learning platform with leaderboards and progress tracking.
+-   **[Smart habit Tracker ](https://smarthabittracker.online/)**: A habit tracker with helps u to track your daily habits.
 -   **[BuiltX](https://builtx.vercel.app/)**: Founder of a modern web development agency focused on smooth animations (Framer Motion/GSAP) and high-conversion landing pages.
 -   **[AI Resume Analyzer](https://resume-dashboard-generator.vercel.app/)**: An end-to-end tool that uses the **Google Gemini API** to parse resumes into interactive dashboards with data visualization (Chart.js).
 - 
