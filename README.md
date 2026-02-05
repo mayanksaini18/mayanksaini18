@@ -1,6 +1,6 @@
 # Hey 👋, I'm Mayank
 
-#### Full Stack Developer | Founder @ BuiltX | Building AI-Native Apps
+#### Full Stack Developer 
 
 I'm a Computer Science student at **IIT Patna** focused on shipping real-world products, not just tutorials. I specialize in building scalable web applications with modern UI/UX and integrating AI APIs.
 
