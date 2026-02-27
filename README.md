@@ -2,25 +2,8 @@
 **Full Stack Developer @ IIT Patna**
 
 Building scalable products and high-fidelity user experiences.  
-[Portfolio](https://builtx.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/mayanksaini18/) • [Twitter](https://x.com/_MayankSaini) • [Email](mailto:mayanksaini0416@gmail.com)
+[Portfolio](https://www.mayank.sbs/) • [LinkedIn](https://www.linkedin.com/in/mayanksaini18/) • [Twitter](https://x.com/_MayankSaini) • [Email](mailto:mayanksaini0416@gmail.com)
 
----
-
-### Featured Projects
-
-* **SmartHealth Tracker** — A data-driven habit and health tracking suite.
-* **AroundU** — Hyper-local platform for community services and events.
-* **GoBasket** — Modern e-commerce solution with optimized checkout.
-
----
-
-### Tech Stack
-
-* **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
-* **Backend:** Node.js, Express, Prisma ORM, Google Gemini API
-* **Infrastructure:** PostgreSQL, MongoDB, Docker, AWS, Vercel
-
----
 
 ### Activity
 
@@ -30,5 +13,3 @@ Building scalable products and high-fidelity user experiences.
 </p>
 
 ---
-
-*I am currently seeking SDE Internship opportunities.*
