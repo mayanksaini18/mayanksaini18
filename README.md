@@ -1,23 +1,6 @@
 # Hey 👋, I'm Mayank
 
-#### Full Stack Developer 
-
-I'm a Computer Science student at **IIT Patna** focused on shipping real-world products, not just tutorials. I specialize in building scalable web applications with modern UI/UX and integrating AI APIs.
-
----
-
-### 🚀 What I'm Building Right Now
-
--   **[Smart habit Tracker ](https://smarthabittracker.online/)**: A habit tracker with helps u to track your daily habits.
--   **[BuiltX](https://builtx.vercel.app/)**: Founder of a modern web development agency focused on smooth animations (Framer Motion/GSAP) and high-conversion landing pages.
--   **[AI Resume Analyzer](https://resume-dashboard-generator.vercel.app/)**: An end-to-end tool that uses the **Google Gemini API** to parse resumes into interactive dashboards with data visualization (Chart.js).
-- 
-
----
-
 ### 🛠️ My Core Stack
-
-Instead of listing every tool I've ever touched, here are the ones I use to build production-ready apps:
 
 | Category | Technologies |
 | :--- | :--- |
@@ -41,7 +24,5 @@ I believe in consistency. Here's a look at my recent contributions:
 ---
 
 ### 🌐 Let's Connect
-
-I am open to high-impact SDE Internships where I can take ownership of features.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayanksaini18/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_MayankSaini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayanksaini0416@gmail.com)
