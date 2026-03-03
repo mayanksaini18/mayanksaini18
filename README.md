@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/_MayankSaini" target="blank"><img src="https://img.shields.io/twitter/follow/_MayankSaini?logo=twitter&style=for-the-badge" alt="https://x.com/_MayankSaini" /></a> </p>
 
-- 🔭 I'm currently working on **MERn Stack**
+- 🔭 currently working on **MERn Stack**
 
 - 📫 How to reach me **mayanksaini0416@gmail.com**
 
-- ⚡ Fun fact **I turn random 2AM ideas into full-stack projects by 6AM.**
+- ⚡ turns random 2AM ideas into full-stack projects by 6AM.**
 
 - 👨‍💻 All of my projects are available at **[https://www.mayank.sbs/](https://www.mayank.sbs/)**
 
