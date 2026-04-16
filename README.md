@@ -41,4 +41,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksaini18" alt="mayanksaini18 streak" /></p>
 
-make connect with me icons inline
