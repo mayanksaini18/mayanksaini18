@@ -1,127 +1,44 @@
 # Hi 👋, I'm Mayank Saini
 
-### A React developer
+<p align="left">
+  <a href="https://x.com/_MayankSaini" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/_MayankSaini?logo=twitter&style=for-the-badge" alt="_MayankSaini" />
+  </a>
+</p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksaini18&label=Profile views&color=0e75b6&style=flat" alt="mayanksaini18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanksaini18" alt="mayanksaini18" /></a> </p> -->
-
-<p align="left"> <a href="https://twitter.com/https://x.com/_MayankSaini" target="blank"><img src="https://img.shields.io/twitter/follow/_MayankSaini?logo=twitter&style=for-the-badge" alt="https://x.com/_MayankSaini" /></a> </p>
-
-- 🔭 currently working on **MERn Stack**
-
-- 📫 How to reach me **mayanksaini0416@gmail.com**
-
-- ⚡ turns random 2AM ideas into full-stack projects by 6AM.**
-
-- 👨‍💻 All of my projects are available at **[https://www.mayank.sbs/](https://www.mayank.sbs/)**
+- ⚡ Turning random 2AM ideas into full-stack projects by 6AM  
+- 🌐 Portfolio: **https://www.mayank.sbs/**
+- 📫 Reach me at: **mayanksaini0416@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/mayanksaini18" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
 
-<a href="https://www.linkedin.com/in/mayank-saini-04675b333/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+<table>
+  <tr>
+    <td><a href="https://github.com/mayanksaini18"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"></a></td>
+    <td><a href="https://www.linkedin.com/in/mayank-saini-04675b333/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a></td>
+    <td><a href="https://www.instagram.com/mayanksaini_18/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a></td>
+    <td><a href="https://x.com/_MayankSaini"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a></td>
+    <td><a href="https://medium.com/@mayanksaini0416"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"></a></td>
+    <td><a href="https://codeforces.com/profile/mayanksaini0416"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"></a></td>
+  </tr>
+</table>
 
-<a href="https://www.instagram.com/mayanksaini_18/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
 
-<a href="https://x.com/_MayankSaini" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="https://medium.com/@mayanksaini0416" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
-
-<a href="https://codeforces.com/profile/mayanksaini0416" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
-</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs" alt="frontend" height="40" />
   <!-- Backend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,go" alt="backend" height="40" />
   <!-- Database -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="database" height="40" />
   <!-- DevOps & Cloud -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="google cloud" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=docker,firebase,gcp,aws" alt="devops" height="40" />
   <!-- Tools -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=postman,figma,git,github" alt="tools" height="40" />
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanksaini18&show_icons=true&locale=en&layout=compact" alt="mayanksaini18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksaini18" alt="mayanksaini18 streak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayanksaini18&show_icons=true&locale=en" alt="mayanksaini18" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksaini18&" alt="mayanksaini18" /></p>
-
+make connect with me icons inline
