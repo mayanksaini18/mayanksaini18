@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mayank Saini
+# I'm Mayank 
 
 <p align="left">
   <a href="https://x.com/_MayankSaini" target="_blank">
