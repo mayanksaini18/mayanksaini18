@@ -6,9 +6,9 @@
   </a>
 </p>
 
-- ⚡ Turning random 2AM ideas into full-stack projects by 6AM  
-- 🌐 Portfolio: **https://www.mayank.sbs/**
-- 📫 Reach me at: **mayanksaini0416@gmail.com**
+-  Turning random 2AM ideas into full-stack projects by 6AM  
+-  Portfolio: **https://www.mayank.sbs/**
+-  Reach me at: **mayanksaini0416@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
