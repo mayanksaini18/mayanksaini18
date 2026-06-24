@@ -25,13 +25,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs" alt="frontend" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,svelte" alt="frontend" height="40" />
+  </br>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,go" alt="backend" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,go,python" alt="backend" height="40" />
+  </br>
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="database" height="40" />
+  </br>
   <!-- DevOps & Cloud -->
   <img src="https://skillicons.dev/icons?i=docker,firebase,gcp,aws" alt="devops" height="40" />
+  </br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=postman,figma,git,github" alt="tools" height="40" />
 </p>
