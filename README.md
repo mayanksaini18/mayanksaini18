@@ -12,23 +12,11 @@ Full-stack engineer building web applications across the stack, from frontend an
 
 ### Focus Areas
 
-- **Web Applications:** Type-safe, performant front ends with React, Next.js and Svelte
-- **Backend & APIs:** RESTful services and modular backends in Node.js, NestJS, Spring Boot and Go
+- **Applications:** Type-safe, performant front ends with React, Next.js and Svelte
+- **Backend & APIs:** RESTful services and modular backends in Node.js, NestJS and Go
 - **Data:** Schema design and query optimization across PostgreSQL and MongoDB
 - **Cloud & DevOps:** Containerized deployments on AWS and GCP with Docker
 
----
 
-### Tech Stack
-
-| Domain | Technologies |
-|---|---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,sass" height="36" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,go,python" height="36" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="36" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase" height="36" /> |
-| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,postman,figma" height="36" /> |
-
----
 
 <sub>Open to full-time roles and freelance collaborations. Reach out at mayanksaini0416@gmail.com</sub>
